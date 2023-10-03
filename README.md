@@ -22,7 +22,7 @@
 
 ## How to play?
 
-1. https://jy2694.github.com/hangman/ 에 접속해요.
+1. https://jy2694.github.io/hangman/ 에 접속해요.
 
 
 2. 출제자를 한 명 선정하고 랜덤으로 제시된 단어 3개 중 하나를 출제자가 골라요.
